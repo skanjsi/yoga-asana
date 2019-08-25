@@ -1,0 +1,27 @@
+.main {
+  margin-top: 80px;
+  width: 100%;
+}
+.series-name {
+  position: relative;
+  left: 4%;
+  width: 80%;
+  margin: 20px;
+}
+.asanas {
+  width: 92%;
+  margin: auto;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.asana {
+  bottom: 0px;
+}
+
+.asana--img {
+  height: 200px;
+}
